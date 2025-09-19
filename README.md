@@ -1,3 +1,5 @@
+cookbook documentation link: https://docs.google.com/document/d/1--a5dMeBOaeAUYFKm6ymmzunuKAQJ2-D/edit?usp=drivesdk&ouid=111565940948487244443&rtpof=true&sd=true
+
 store manager demo link video https://drive.google.com/file/d/12oORoMWzQoDvgachyaJWsC-Z_-CHLfQn/view?usp=sharing
 # Getting Started with Create React App
 
